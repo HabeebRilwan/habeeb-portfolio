@@ -6,7 +6,7 @@ function Navbar() {
       <div className="nav-container">
 
         <a href="#home" className="logo">
-          HABEEB<span>.</span>
+          HABEEB RILWAN<span>.</span>
         </a>
 
         <ul className="nav-links">
