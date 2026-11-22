@@ -14,10 +14,10 @@ function Contact() {
             Let's Work <span>Together</span>
           </h2>
 
-          <p className="section-description">
-            I'm open to software development, database management,
-            Python development and data analytics opportunities.
-            Feel free to contact me.
+          <p className="section-description contact-description">
+            Open to software development, Python, database management,
+            and data analytics opportunities. Let's connect and discuss
+            how we can work together.
           </p>
         </div>
 
@@ -35,8 +35,16 @@ function Contact() {
             <div className="contact-icon">
               <Phone size={25} />
             </div>
-            <h3>Phone</h3>
+            <h3>Saudi Arabia</h3>
             <p>+966 530751548</p>
+          </a>
+
+          <a href="tel:+918056204972" className="contact-card">
+            <div className="contact-icon">
+              <Phone size={25} />
+            </div>
+            <h3>India</h3>
+            <p>+91 80562 04972</p>
           </a>
 
           <div className="contact-card">
@@ -61,7 +69,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://github.com/YOUR-GITHUB-USERNAME"
+            href="https://github.com/HabeebRilwan"
             target="_blank"
             rel="noreferrer"
             aria-label="GitHub"
@@ -69,17 +77,14 @@ function Contact() {
             <FaGithub size={22} />
           </a>
 
-          <a
-            href="mailto:rhrrilwan619@gmail.com"
-            aria-label="Email"
-          >
+          <a href="mailto:rhrrilwan619@gmail.com" aria-label="Email">
             <Mail size={22} />
           </a>
 
         </div>
 
         <div className="contact-bottom">
-          <h3>Have a project or opportunity in mind?</h3>
+          <h3>Have an opportunity or project in mind?</h3>
 
           <a
             href="mailto:rhrrilwan619@gmail.com?subject=Portfolio%20Contact"

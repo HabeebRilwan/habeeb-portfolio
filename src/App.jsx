@@ -8,6 +8,7 @@ import Experience from "./components/Experience.jsx";
 import Projects from "./components/Projects.jsx";
 import Analytics from "./components/Analytics.jsx";
 import Contact from "./components/Contact.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
         <Analytics />
            <Contact />
       </main>
-      
+       <Footer />
     </>
   );
 }
