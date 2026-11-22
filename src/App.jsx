@@ -7,7 +7,7 @@ import Skills from "./components/Skills.jsx";
 import Experience from "./components/Experience.jsx";
 import Projects from "./components/Projects.jsx";
 import Analytics from "./components/Analytics.jsx";
-
+import Contact from "./components/Contact.jsx";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
         <Experience />
         <Projects />
         <Analytics />
-        
+           <Contact />
       </main>
       
     </>

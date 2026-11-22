@@ -63,7 +63,7 @@ function Home() {
               <FaGithub size={20} />
             </a>
 
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+            <a href="https://linkedin.com/in/habeeb-rilwan" target="_blank" rel="noreferrer">
               <FaLinkedinIn size={20} />
             </a>
 
